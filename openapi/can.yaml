@@ -1,0 +1,7 @@
+generator:
+  templateName: "go-gin"
+  moduleName: github.com/sasswart/api-discovery
+  basePackageName: api
+openAPI:
+  openAPIFile: openapi.yaml
+outputPath: ../api
